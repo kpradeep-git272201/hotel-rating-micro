@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import java.util.List;
 
 //@FeignClient(url="http://localhost:8083/webapi/api/v1", value="RATING-SERVICE")
-@FeignClient(name="http://RATING-SERVICE/webapi/api/v1")
+@FeignClient(name="http://RATING-SERVICE/api/v1")
 public interface RatingService {
 
     @GetMapping("/rating/users/{userId}")
