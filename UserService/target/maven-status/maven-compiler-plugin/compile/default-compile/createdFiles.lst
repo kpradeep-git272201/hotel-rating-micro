@@ -1,0 +1,16 @@
+com\user\userservice\external\service\HotelService.class
+com\user\userservice\repositories\UserRepository.class
+com\user\userservice\entities\Hotels.class
+com\user\userservice\utils\CustomObjectMapper.class
+com\user\userservice\controller\UserController.class
+com\user\userservice\entities\Rating.class
+com\user\userservice\dtos\HotelDTOs.class
+com\user\userservice\services\UserServiceImpl.class
+com\user\userservice\external\service\RatingService.class
+com\user\userservice\entities\User.class
+com\user\userservice\dtos\UserDto.class
+com\user\userservice\UserServiceApplication.class
+com\user\userservice\dtos\RatingDTOs.class
+com\user\userservice\exceptions\ResouceNotFoundException.class
+com\user\userservice\exceptions\GlobalExcetionHandler.class
+com\user\userservice\services\UserService.class
